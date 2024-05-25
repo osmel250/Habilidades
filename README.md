@@ -92,6 +92,7 @@
       ></iframe>
 
       <iframe
+      class="video"
         width="560"
         height="315"
         src="https://www.youtube.com/embed/K0IFbdwzTFI?si=OfsEBUWhBIJEqypr"
