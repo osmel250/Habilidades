@@ -1,11 +1,10 @@
 # Habilidades
-<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Curso habilidades digitales</title>
-    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="style.css" />
   </head>
   <body>
     <div class="title-set">
@@ -75,7 +74,7 @@
     <div class="container">
       <h2 id="subtitles">Imagen</h2>
       <p>La siguiente imagen...</p>
-      <img class="img" src="images/img1.jpg" alt="Imagen" />
+      <img class="img" src="https://images.pexels.com/photos/346529/pexels-photo-346529.jpeg?cs=srgb&dl=pexels-bri-schneiter-28802-346529.jpg&fm=jpg" alt="Imagen" />
     </div>
     <div class="container">
       <h2 id="subtitles">Video de YouTube</h2>
